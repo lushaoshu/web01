@@ -15,7 +15,7 @@
 </head>
 <body>
 <header>
-  <div class="logo">杨青个人博客</div>
+  <div class="logo">个人博客</div>
   <div class="top-nav">
     <h2 id="mnavh"><span class="navicon"></span></h2>
     <ul id="nav">
