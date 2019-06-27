@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>杨青个人博客网站</title>
+<title>卢少术个人博客网站</title>
 <meta name="keywords" content="博客,个人博客,博客模板,博客系统,网站制作" />
-<meta name="description" content="杨青个人博客模板，杨青博客网站教你如何建立自己的网站|免费个人博客系统程序模板下载哪个最好|搭建个人博客网站制作|推广运营者由域名到服务器空间租用从零开始学会如何快速组建自己的网站" />
+<meta name="description" content="个人博客模板，杨青博客网站教你如何建立自己的网站|免费个人博客系统程序模板下载哪个最好|搭建个人博客网站制作|推广运营者由域名到服务器空间租用从零开始学会如何快速组建自己的网站" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/skin/html/css/index.css" rel="stylesheet">
 <script src="/skin/html/js/jquery.min.js" ></script>
@@ -56,7 +56,7 @@
 </header>
 <aside class="side">
   <div class="about"> <i><a href="/"><img src="/skin/html/images/avatar.jpg"></a></i>
-    <p>杨青，一个80后草根女站长！09年入行。一直潜心研究web前端技术，一边工作一边积累经验，分享一些个人博客模板，以及SEO优化等心得。</p>
+    <p>卢少术，一个00前端爱好者！分享一些个人博客模板，以及SEO优化等心得。</p>
   </div>
   <div class="weixin"> <img src="http://www.yangqq.com/skin/html/images/wx.jpg">
     <p>关注我 么么哒！</p>
@@ -64,7 +64,7 @@
 </aside>
 <main>
   <div class="main-content">
-    <div class="welcome"> 您好，欢迎您访问杨青个人博客官方网站！ </div>
+    <div class="welcome"> 您好，欢迎您访问我的个人博客官方网站！ </div>
     <div class="picbox">
       <h2 class="pictitle"><a href="#">个人博客网站模板|头条展示</a></h2>
       <!--box begin-->
@@ -208,11 +208,11 @@
 <li><a href="http://www.yangqq.com" title="图片链接" target="_blank"><img src="http://www.yangqq.com/d/file/news/life/2018-04-27/f2504f2c46c066e6226d1669effde26e.jpg" style="width:auto"></a></li>
       </ul>
       <ul class="link-text">
-<li><a href="http://www.yangqq.com"target="_blank">杨青个人博客</a></li>
+<li><a href="http://www.yangqq.com"target="_blank">卢少术个人博客</a></li>
       </ul>
     </div>
     <div class="copyright">
-      <p>Copyright 2018 Inc. AllRights Reserved. Design by 杨青个人博客 蜀ICP备11002373号-1</p>
+      <p>Copyright 2018 Inc. AllRights Reserved. Design by 卢少术个人博客 蜀ICP备11002373号-1</p>
     </div>
   </div>
 </main>
