@@ -55,10 +55,10 @@
   </div>
 </header>
 <aside class="side">
-  <div class="about"> <i><a href="/"><img src="/skin/html/images/avatar.jpg"></a></i>
+  <div class="about"> 
     <p>卢少术，一个00前端爱好者！分享一些个人博客模板，以及SEO优化等心得。</p>
   </div>
-  <div class="weixin"> <img src="http://www.yangqq.com/skin/html/images/wx.jpg">
+  <div class="weixin">
     <p>关注我 么么哒！</p>
   </div>
 </aside>
