@@ -173,10 +173,10 @@
           <h2 class="newstitle"><span><a href="/wysj/" target="_blank">更多</a></span><b>网页设计心得</b></h2>
           <ul>
 <li><a href="/wysj/28.html" target="_blank"><span>09-26</span>我是怎么评价自己的？</a> </li>
-<li><a href="/wysj/27.html" target="_blank"><span>09-26</span>安静地做一个爱设计的女子</a> </li>
+<li><a href="/wysj/27.html" target="_blank"><span>09-26</span>安静地做一个爱设计的人</a> </li>
 <li><a href="/wysj/26.html" target="_blank"><span>09-26</span>个人博客，属于我的小世界！</a> </li>
 <li><a href="/wysj/25.html" target="_blank"><span>09-26</span>作为一个设计师,如果遭到质疑你是否能恪守自己的原则?</a> </li>
-<li><a href="/wysj/24.html" target="_blank"><span>09-26</span>女程序员职业生涯该如何发展？</a> </li>
+<li><a href="/wysj/24.html" target="_blank"><span>09-26</span>程序员职业生涯该如何发展？</a> </li>
 <li><a href="/wysj/23.html" target="_blank"><span>09-26</span>犯错了怎么办？</a> </li>
 <li><a href="/wysj/22.html" target="_blank"><span>09-26</span>某一人似曾相识、某一刻似曾经历</a> </li>
 <li><a href="/wysj/21.html" target="_blank"><span>09-26</span>个人博客从简不繁</a> </li>
